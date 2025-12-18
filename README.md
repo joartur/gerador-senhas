@@ -50,7 +50,7 @@ Um gerador de senhas moderno, seguro e responsivo desenvolvido com Next.js 14 e 
 
 ## 🚀 Demonstração
 
-**Visite a aplicação online:** [https://gerador-senhas.vercel.app](https://gerador-senhas.vercel.app) *(link de exemplo)*
+**Visite a aplicação online:** [https://listarsenhas.vercel.app](https://listarsenhas.vercel.app) *(link de exemplo)*
 
 ### Capturas de Tela
 
