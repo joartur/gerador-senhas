@@ -77,7 +77,7 @@ Um gerador de senhas moderno, seguro e responsivo desenvolvido com Next.js 14 e 
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/gerador-senhas.git
+git clone https://github.com/joartur/gerador-senhas.git
 cd gerador-senhas
 ```
 
