@@ -1,5 +1,4 @@
 # 🔐 Gerador de Senhas Seguras - Next.js 14
-# 🔐 Gerador de Senhas Seguras - Next.js 14
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
