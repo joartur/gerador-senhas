@@ -14,7 +14,7 @@
 
 Um gerador de senhas moderno, seguro e responsivo desenvolvido com Next.js 14 e Tailwind CSS, seguindo as melhores práticas de UI/UX e segurança.
 
-![Preview da Aplicação](https://via.placeholder.com/800x450/3b82f6/ffffff?text=Gerador+de+Senhas+Seguras)
+![Preview da Aplicação](https://github.com/joartur/gerador-senhas/blob/main/public/desktop.png)
 
 ## ✨ Funcionalidades
 
@@ -56,7 +56,7 @@ Um gerador de senhas moderno, seguro e responsivo desenvolvido com Next.js 14 e 
 
 | Modo Claro | Modo Escuro |
 |------------|-------------|
-| ![Modo Claro](https://via.placeholder.com/400x600/f8fafc/0f172a?text=Modo+Claro) | ![Modo Escuro](https://via.placeholder.com/400x600/0f172a/f8fafc?text=Modo+Escuro) |
+| ![Modo Claro](https://github.com/joartur/gerador-senhas/blob/main/public/claro.png) | ![Modo Escuro](https://github.com/joartur/gerador-senhas/blob/main/public/dark.png) |
 
 ## 🛠️ Tecnologias Utilizadas
 
